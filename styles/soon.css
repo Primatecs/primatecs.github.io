@@ -26,7 +26,7 @@ a, div, img {transition-duration:.3s; transition-property:all}
 
 :focus {outline:0}
 
-body {background:url('../images/bg-rocketinthesky.jpg') center/cover no-repeat #E1E1E1; font-family:"Arial", sans-serif; font-size:16px; color:#333}
+body {background:url('../images/logo-black.jpg') center no-repeat #000; font-family:"Arial", sans-serif; font-size:16px; color:#333}
 hr {margin:10px 0 50px; background:none; border:none; border-bottom:1px solid #999}
 h1 {padding:10px 0; font-size:42px; line-height:42px; text-transform:uppercase; font-family:"Oswald", sans-serif}
 p  {padding:20px 0}
@@ -34,5 +34,5 @@ p  {padding:20px 0}
  p [class^="fx-bg-"] {display:inline; margin:-2px; padding:2px}
 
 .ui-wrapper {margin:0 auto; max-width:940px; position:relative}
-.link-br {position:absolute; bottom:50px; right:50px; font-size:12px; color:#999; text-align:right}
-.link-br a {color:#999}
+.link-br {position:absolute; bottom:50px; right:50px; font-size:12px; color:#444; text-align:right}
+.link-br a {color:#444}
